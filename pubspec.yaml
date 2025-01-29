@@ -87,8 +87,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
-dependencies:
-  flutter:
-    sdk: flutter
-  web_socket_channel: ^2.3.0
+
 
